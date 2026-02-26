@@ -1,7 +1,7 @@
 # Task 01: Backend Django Project Setup
 
 ## Priority: High
-## Status: Pending
+## Status: Done
 ## Subagent: @django-backend-builder
 
 ## Description
@@ -9,6 +9,7 @@ Initialize the Django project with proper folder structure and settings splittin
 
 ## Requirements
 - Create the Django project inside a `backend/` folder at the repo root
+- Create a virtual environment and install the packages in the virtual environment
 - Use settings splitting pattern (base, development, production)
 - Configure PostgreSQL as the database
 - Set up CORS headers for frontend communication
