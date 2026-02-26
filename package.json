@@ -1,0 +1,19 @@
+{
+  "name": "sample_e_commerce_vibe",
+  "version": "1.0.0",
+  "description": "This is a sample repo where I am experimenting how to vibe code a e-commerce with Claude Code",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-dinesh24murali:dinesh24murali/sample_e_commerce_vibe.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chrome-devtools-mcp": "^0.18.1"
+  }
+}

@@ -9,7 +9,7 @@ Start the Django backend development server.
 ## Steps
 
 1. Check if `backend/` directory exists
-2. Check if a virtual environment exists and activate it, or check for dependencies
+2. Check if a virtual environment exists @backend/venv and activate it, or check for dependencies
 3. Run database migrations if there are pending ones:
    ```
    cd backend && python manage.py migrate
